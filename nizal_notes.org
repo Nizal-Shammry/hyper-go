@@ -1,7 +1,7 @@
 *Notes on the Hyper-go includes:
-	"*"Issues and proposed solutions
-	"*"Comments on GO terms and structure
-	"*"Developer's thoughts (DT)
+	'*'Issues and proposed solutions
+	'*'Comments on GO terms and structure
+	'*'Developer's thoughts (DT)
 
 ** High/Low Affinity
 
